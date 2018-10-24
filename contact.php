@@ -43,15 +43,15 @@ if (isset($_SESSION['name']))
                             </address>
                         </li>
                         <li>
-                            <i class="glyphicon glyphicon-earphone"></i>  +91 9598319698 <span class="badge">Idea</span>
+                            <i class="glyphicon glyphicon-earphone"></i>  +91 9598319238 <span class="badge">Idea</span>
                         </li>
                         <br>
                         <li>
-                            <i class="glyphicon glyphicon-earphone"></i>  +91 8319650716 <span class="badge">Jio</span>
+                            <i class="glyphicon glyphicon-earphone"></i>  +91 9793645676 <span class="badge">Airtel</span>
                         </li>
                         <br>
                         <li>
-                            <span class="glyphicon glyphicon-envelope"></span>  pratyushr1102@gmail.com 
+                            <span class="glyphicon glyphicon-envelope"></span>  pratyushranjan@gmail.com 
                         </li>
                         <br>
                         <br>
@@ -65,7 +65,7 @@ if (isset($_SESSION['name']))
         <legend>
             <h4>SEND US A MESSAGE</h4>
         </legend>
-        <p>For any query please contact us directly.We will respond for sure.</p>
+        <p>For any query please contact us directly.We will try to respond as soon as possible.</p>
         <form class="form-horizontal">
             <div class="form-group">
                 <label >Name</label>
@@ -85,13 +85,12 @@ if (isset($_SESSION['name']))
             </div>
     <div class="form-group">
         
-        <a href="#" data-toggle="tooltip" title="Thanks for contacting us!"><button type="submit" value="submit" class="btn btn-primary" style="border-radius: 12px;" >SUBMIT</button></a>
+        <a href="#" data-toggle="tooltip" title="Thanks for reaching us!"><button type="submit" value="submit" class="btn btn-primary" style="border-radius: 12px;" >SUBMIT</button></a>
     </div>
         
     </form>
         <br><p></p>
-            </div>
-                                                  
+            </div>                           
             </div>
         <?php
         include 'footer.php';
